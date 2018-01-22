@@ -1,4 +1,4 @@
-# m-Typer [ `Beta branch` ]
+# m-Typer [ `Beta branch` ] 
 
 m-Typer သည္ [PocketSphinx](http://cmusphinx.sourceforge.net/wiki/tutorialandroid) Speech Recognition စနစ္ကို အသံုးျပဳကာ Myanmar Speech To Text (offline) အျဖစ္ အသံုးျပဳႏိုင္ေစရန္ ရည္ရြယ္ေသာ Android app project တစ္ခု ျဖစ္ပါသည္။
 

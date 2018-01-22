@@ -17,7 +17,7 @@ m-Typer သည္ [PocketSphinx](http://cmusphinx.sourceforge.net/wiki/tutoriala
 ###  [PocketSphinx](http://cmusphinx.sourceforge.net/wiki/tutorialandroid) Speech Recognition စနစ္တြင္ dictionary မွ စကားလံုးမ်ားကို recognize သိေစရန္- 
 
 - Recognize သိေစခ်င္ေသာ စကားလံုး keyword မ်ားကို သိေအာင္ လုပ္ျခင္း (keyword search)
-- [JSpeech Grammar Format  JSGF](‎https://www.w3.org/TR/jsgf/) ျဖင့္ လိုခ်င္ေသာ စကားလံုး အထားအသိုမ်ား တည္ေဆာက္ျပီး သိေအာင္လုပ္ျခင္း (grammar search) ႏွင့္
+- [JSpeech Grammar Format  JSGF](https://www.w3.org/TR/jsgf/) ျဖင့္ လိုခ်င္ေသာ စကားလံုး အထားအသိုမ်ား တည္ေဆာက္ျပီး သိေအာင္လုပ္ျခင္း (grammar search) ႏွင့္
 - ngram/lm search ဟု ေခၚေသာ Dictionary တစ္ခုလံုးမွ စကားလံုးမ်ားကို lm (Language Model) ကို အသံုးျပဳ၍ သိေအာင္ လုပ္ျခင္း 
 
 ဟူ၍ အမ်ိဳးမ်ိဳး recognize သိေအာင္ လုပ္ႏိုင္ေသာ စနစ္မ်ား ရွိပါသည္။
